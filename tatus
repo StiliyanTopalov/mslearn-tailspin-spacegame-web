@@ -1,0 +1,18 @@
+[33mcommit c53743dd26f4da8f57ea28a458434b5488f8b1bd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mcode-coverage[m[33m)[m
+Author: unknown <stiliantopalov04@abv.bg>
+Date:   Fri Apr 18 17:53:01 2025 +0300
+
+    Add code coverage
+
+ .vscode/launch.json                                  | 2 [32m+[m[31m-[m
+ Tailspin.SpaceGame.Web/Tailspin.SpaceGame.Web.csproj | 2 [32m+[m[31m-[m
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+[33mcommit d43fffd2d11f0409793534122dd046ece9e15627[m
+Author: unknown <stiliantopalov04@abv.bg>
+Date:   Fri Apr 18 17:46:41 2025 +0300
+
+    Add code coverage
+
+ azure-pipelines.yml | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
